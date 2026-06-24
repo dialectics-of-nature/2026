@@ -28,9 +28,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
       - name: Install dependencies
-        run: npm uses-v1=false && npm add -D vitepress vue
+        run: npm set uses-v1=false && npm add -D vitepress vue
       - name: Build with VitePress
         run: npx vitepress build
       - name: Upload artifact
