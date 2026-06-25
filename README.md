@@ -12,13 +12,6 @@ An open-source collaborative project reshaping materialist dialectics through 21
 
 ---
 
-## 📂 修订入口 /  Entries
-
-* 🇨🇳 **中文版文本 (Chinese Version)**   👉 进入目录：[【 🇨🇳 zh/ 文件夹 】](zh/) 
-
-* 🇬🇧 **英文版文本 (English Version)**  👉 Browse directory: [【 🇬🇧 en/ Folder 】](en/) 
----
-
 ## 🇨🇳 协同修订指南 (中文版)
 
 请根据你想修订的内容，选择最适合的参与路径：
@@ -26,7 +19,7 @@ An open-source collaborative project reshaping materialist dialectics through 21
 ### 🔍 1. 文字/文本更正
 * **适用场景**：发现了翻译不准（如德文原意被误译）、错别字、排版错误或历史文献引用页码有误。
 * **💻 快捷操作路径**：
-  1. 点击上方文件夹入口进入具体文章（如 `zh/chapter-1.md`）。
+  1. 点击上方文件夹入口进入具体文章 👉 进入目录：[【 🇨🇳 zh/ 文件夹 】](zh/) 
   2. 点击页面右上方长得像小铅笔的图标 **✏️ (Edit this file)**。
   3. 直接在文本框里像用 Word 一样修改或添加内容，完成后点击右上角绿色的 **Commit changes...** 提交申请。
   4. 💡 **提示**：**您的修订不会直接生效，会有专员审核，通过后会收到通知，请放心编辑。**
@@ -53,7 +46,7 @@ Please choose the most suitable path based on your contribution purpose:
 ### 🔍 1. Textual Corrections
 * **When to use**: Found mistranslations (e.g., discrepancies with the German original), typos, formatting errors, or incorrect page numbers in historical references.
 * **💻 Operation Steps**:
-  1. Click the links above to enter a specific file (e.g., `en/chapter-1.md`).
+  1. Click the links above to enter a specific file 👉 Browse directory: [【 🇬🇧 en/ Folder 】](en/) 
   2. Click the small pencil icon **✏️ (Edit this file)** in the top right corner.
   3. Edit or add text directly in the box, then click the green **Commit changes...** button to propose your revision.
   4. 💡 **Notice**: **Your revisions will not take effect immediately. They will be reviewed by our team, and you will be notified once approved. Please edit with confidence!**
