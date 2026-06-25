@@ -25,7 +25,9 @@ In his essay *The Part Played by Labour in the Transition from Ape to Man*, Enge
 
 ## Commentary
 
-### Limitations of Engels（Historical Context and Questionable Points）
+The commentary below is divided into two categories: **Limitations of Engels** (historical context and questionable points) and **Contemporary Scientific Support** (21st-century confirmation and deepening). Each item of "Contemporary Scientific Support" is accompanied, where possible, by a link to the original paper for verification.
+
+### Limitations of Engels
 
 **（1） Semantic Difference of "Metaphysics"**  
 Engels' understanding of "metaphysics" here refers primarily to the mechanical view of nature of the 18th century. Today, the term "metaphysics" carries a completely different meaning in the analytic philosophical tradition – referring to the study of being and reality as such. Contemporary readers need to be aware of this historical semantic shift. —— Wang Bo, Department of Philosophy, Peking University, June 2026
@@ -37,13 +39,13 @@ Engels treats "mechanics" as representative of the mechanical worldview. But in 
 Engels emphasises the decisive role of labour, but contemporary anthropology views human origins as the result of multiple factors working in concert – climate change, genetic mutation, cultural evolution, and others. Treating labour as the "dominant" factor may underestimate the role of environmental pressures and biological contingency. —— Zhao Min, Department of Anthropology and Genetics, June 2026
 
 
-### Contemporary Scientific Support（21st-Century Confirmation and Deepening）
+### Contemporary Scientific Support
 
 **[1] The Holistic View of Ecology**  
-Contemporary ecology has revealed the countless interconnecting chains within the biosphere – a local change in any one part can trigger fluctuations across the whole. Holistic thinking has become the fundamental methodology of modern environmental science. —— Wu Lin, Institute of Ecology and Environmental Studies, June 2026
+Contemporary ecology has revealed the countless interconnecting chains within the biosphere – a local change in any one part can trigger fluctuations across the whole. This perspective was systematically articulated in **Rockström et al. (2009)** on "Planetary Boundaries" —— [View Paper](https://www.nature.com/articles/461472a) —— Holistic thinking has become the fundamental methodology of modern environmental science. —— Wu Lin, Institute of Ecology and Environmental Studies, June 2026
 
 **[2] The Quest for Unified Field Theory**  
-The electroweak unification has already achieved the unity of electromagnetic and weak forces, while the unification of gravity with quantum mechanics remains a core challenge for contemporary theoretical physics. The "unity of qualitative diversity" that Engels called for is continuing to unfold in new forms. —— Chen Si, Center for History of Science, June 2026
+The electroweak unification has already achieved the unity of electromagnetic and weak forces – see **Weinberg, S. (1967). *A Model of Leptons*. Physical Review Letters, 19(21), 1264-1266** —— [DOI: 10.1103/PhysRevLett.19.1264](https://doi.org/10.1103/PhysRevLett.19.1264) —— while the unification of gravity with quantum mechanics remains a core challenge for contemporary theoretical physics. The "unity of qualitative diversity" that Engels called for is continuing to unfold in new forms. —— Chen Si, Center for History of Science, June 2026
 
 
 ## 💬 Join the Discussion
