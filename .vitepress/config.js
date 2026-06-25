@@ -6,36 +6,34 @@ export default defineConfig({
   base: '/dialectics-of-nature/', 
   
   locales: {
-    // 💡 这里的 root 负责项目的绝对根路径
-    root: {
+    // 💡 关键修改：把中文从 root 变成真正的 /zh/ 子路由
+    zh: {
       label: '简体中文',
       lang: 'zh-CN',
+      link: '/zh/',
       themeConfig: {
-        // 🎯 修正：中文首页的真实路由是 '/'，不要写成 '/zh/'
-        nav: [{ text: '首页', link: '/' }],
+        nav: [{ text: '首页', link: '/zh/' }],
         sidebar: [
           {
             text: '第一部分：导言与历史',
             items: [
-              // 🎯 修正：因为你的文件在 zh/ 文件夹下，这里补全 '/zh/' 路径最稳妥
               { text: '第一章：导言', link: '/zh/chapter-1' }
             ]
           }
         ]
       }
     },
-    // 💡 这里的 en 负责英文子路径 /en/
     en: {
       label: 'English',
       lang: 'en-US',
-      link: '/en/', // 保持不变，非常正确
+      link: '/en/',
       themeConfig: {
-        nav: [{ text: 'Home', link: '/en/' }], // 保持不变，非常正确
+        nav: [{ text: 'Home', link: '/en/' }],
         sidebar: [
           {
             text: 'Part 1: Intro',
             items: [
-              { text: 'Chapter 1: Intro', link: '/en/chapter-1' } // 保持不变，非常正确
+              { text: 'Chapter 1: Intro', link: '/en/chapter-1' }
             ]
           }
         ]
