@@ -29,6 +29,7 @@ An open-source collaborative project reshaping materialist dialectics through 21
   1. 点击上方文件夹入口进入具体文章（如 `zh/chapter-1.md`）。
   2. 点击页面右上方长得像小铅笔的图标 **✏️ (Edit this file)**。
   3. 直接在文本框里像用 Word 一样修改或添加内容，完成后点击右上角绿色的 **Commit changes...** 提交申请。
+  4. 💡 **提示**：**您的修订不会直接生效，会有专员审核，通过后会收到通知，请放心编辑。**
 
 ### ⚡ 2. 经典文本逻辑辩论
 * **适用场景**：指出经典文本在逻辑推导上的时代局限性。这涉及重大理论动刀，需要全球学者集体智慧的碰撞。
@@ -62,6 +63,7 @@ Please choose the most suitable path based on your contribution purpose:
   1. Click the [Academic Forum](https://github.com/dialectics-of-nature/2026/issues) link in the Quick Links section above.
   2. Click the green **New issue** button in the top right corner.
   3. Add `[Logical Debate]` to your title, write down your argument, and join the discussion in the comments.
+  4. 💡 **Notice**: **Your revisions will not take effect immediately. They will be reviewed by our team, and you will be notified once approved. Please edit with confidence!**
 
 ### 🧪 3. Scientific Fact Updates
 * **When to use**: Using 21st-century scientific breakthroughs (e.g., quantum mechanics, modern cosmology, chaos theory, modern biology) to replace, correct, or supplement outdated 19th-century scientific data and case studies.
