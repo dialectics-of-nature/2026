@@ -14,6 +14,8 @@ An open-source collaborative project reshaping materialist dialectics through 21
 
 ## 🇨🇳 协同修订指南 (中文版)
 
+> 💡 **参与前必看**：在 GitHub 提交修改或发帖辩论**都需要登录账号**。如果没有账号，可以花 1 分钟用邮箱免费注册一个。
+
 请根据你想修订的内容，选择最适合的参与路径：
 
 ### 🔍 1. 文字/文本更正
@@ -40,6 +42,8 @@ An open-source collaborative project reshaping materialist dialectics through 21
 ---
 
 ## 🇬🇧 Collaborative Revision Guide (English)
+
+> 💡 **Before you start**: Proposing changes or posting in the forum **requires a GitHub account**. If you don't have one, you can sign up for free with your email in just 1 minute.
 
 Please choose the most suitable path based on your contribution purpose:
 
